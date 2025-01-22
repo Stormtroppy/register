@@ -1,0 +1,11 @@
+{
+    "description": "A profolio",
+    "repo": "https://github.com/Stormtroppy/Website",
+    "owner": {
+        "username": "Stormtroppy",
+        "email": "[email protected]"
+    },
+    "record": {
+        "CNAME": "Stormtroppy.github.io/Website"
+    }
+}
